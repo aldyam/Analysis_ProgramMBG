@@ -1,0 +1,2 @@
+1. uvicorn api:app --reload
+2. streamlit run ui.py
