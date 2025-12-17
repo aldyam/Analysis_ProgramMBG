@@ -1,2 +1,5 @@
-1. uvicorn api:app --reload
-2. streamlit run ui.py
+uvicorn api:app --reload
+streamlit run ui.py
+
+code untuk menjalankan:
+streamlit run deploy.py
